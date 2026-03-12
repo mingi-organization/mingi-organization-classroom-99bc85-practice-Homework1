@@ -1,0 +1,7 @@
+int : 100
+hex : 64
+oct : 144
+char : c
+string : hello world!
+float : 3.141592
+exp : 3.141592e+00
